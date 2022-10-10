@@ -13,7 +13,15 @@
     "travel"
   ],
   "screenshots": [],
-  "icons": [],
+  "icons": [
+    
+    {
+      "src": "img/icono.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+    
+  ],
   "shortcuts": [],
   "lang": "es"
 }
