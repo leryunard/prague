@@ -19,6 +19,11 @@ TPI115
 
 </head>
 <body>
+    <script>
+     if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('sw.js')
+      }
+    </script>
     <!-- Animación para cargar página -->
     <div id="loader-wrapper">
         <div id="loader"></div>
