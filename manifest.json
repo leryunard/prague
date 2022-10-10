@@ -1,0 +1,19 @@
+{
+  "background_color": "#000000",
+  "description": "Una aplicación sencilla que muestra al usuario algunos datos sobre la ciudad de praga.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Conoce Praga",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "prague_app",
+  "start_url": "/",
+  "theme_color": "#e4996a",
+  "categories": [
+    "travel"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "lang": "es"
+}
